@@ -428,10 +428,6 @@
     vertical-align: middle;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-.yvela-undaiyosaq :hover {
-    cursor: pointer;
-    transform: scale(1.010);
-}
 .apartamentisa-londona {
     width: 350px;
     padding: 0;
